@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/famobi.iml" filepath="$PROJECT_DIR$/.idea/modules/famobi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/famobi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/famobi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1295140107/famobi.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1295140107/famobi.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-827243646/famobi.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-827243646/famobi.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-367808166/famobi.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-367808166/famobi.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/239174507/famobi.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/239174507/famobi.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/198909251/famobi.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/198909251/famobi.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1415926676/famobi.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1415926676/famobi.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

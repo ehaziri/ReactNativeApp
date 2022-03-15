@@ -1,0 +1,6 @@
+module Pods_famobi_famobiTests {
+  umbrella header "Pods-famobi-famobiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

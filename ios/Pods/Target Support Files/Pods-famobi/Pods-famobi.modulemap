@@ -1,0 +1,6 @@
+module Pods_famobi {
+  umbrella header "Pods-famobi-umbrella.h"
+
+  export *
+  module * { export * }
+}
